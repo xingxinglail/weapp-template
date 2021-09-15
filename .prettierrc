@@ -1,0 +1,22 @@
+{
+    "printWidth": 200, // 每行代码长度200（默认80）
+    "useTabs": false,
+    "tabWidth": 4,
+    "semi": false, // 声明结尾使用分号(默认true)
+    "vueIndentScriptAndStyle": true,
+    "singleQuote": true, // 使用单引号（默认false）
+    "quoteProps": "as-needed",
+    "jsxSingleQuote": false,
+    "bracketSpacing": true, // 对象字面量的大括号间使用空格（默认true）
+    "proseWrap": "never",
+    "htmlWhitespaceSensitivity": "strict",
+    "eslintIntegration": true,
+    "stylelintIntegration": true,
+    "trailingComma": "none", // 多行使用拖尾逗号（默认none） none | all
+    "jsxBracketSameLine": false, // 多行JSX中的>放置在最后一行的结尾，而不是另起一行（默认false）
+    "arrowParens": "always",
+    "insertPragma": false,
+    "requirePragma": false,
+    "endOfLine": "auto", // windows下默认换行符\r\n，要修改需要对所有文件修改，所以不强制\r
+    "rangeStart": 0
+}
